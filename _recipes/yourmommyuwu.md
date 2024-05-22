@@ -7,7 +7,7 @@ image: image/mother.jpg
 size: 50 servings
 time: 4 minutes
 author: klarininkabalc
-source: tvoje máma
+source: google.com
 spicy: yes
 
 ---
@@ -17,6 +17,7 @@ spicy: yes
 * cooking
 * shopping
 * piknik
+* mommysauce
 
 > Mix with other moms, now your moms not your mom
 
@@ -28,8 +29,6 @@ spicy: yes
 ---
 
 * pamidžano redžiano
-
-.
 
 ---
 

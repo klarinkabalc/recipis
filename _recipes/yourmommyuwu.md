@@ -8,7 +8,7 @@ size: 50 servings
 time: 4 minutes
 author: klarininkabalc
 source: tvoje máma
-spicy: ✓ yes
+spicy: yes
 
 ---
 

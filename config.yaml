@@ -1,5 +1,5 @@
 # Text shown on the index page.
-index_title: Rolandův Receptář
+index_title: Rolandův a Klárkův Receptář
 index_description:
   „Ze všech lásek nejupřímnější je láska k jídlu.“
 
@@ -32,7 +32,8 @@ strings:
 # page, referring you to the corresponding Markdown file on GitHub. If you've
 # got some sort of continous integration (like the included GitHub Action) set
 # up, this effectively turns your site into a wiki.
-github_url: https://github.com/schullzroll/recipes
+github_url: https://github.com/klarinkabalc/recipis
+
 
 # Remote for deployment – the value of this setting will be passed to rsync as a
 # destination, so you probably want it to look like USER@SERVER:PATH. Make sure

@@ -38,4 +38,4 @@ spicy: yes
 
 > Cut meat into `2-3 cm` cubes and mix into the marinade.
 
----
+
